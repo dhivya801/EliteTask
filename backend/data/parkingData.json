@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "hourlyRate": 30
+  },
+  "slots": [
+    {
+      "id": 1,
+      "slotNumber": "A01",
+      "status": "Occupied",
+      "vehicleId": 1
+    },
+    {
+      "id": 2,
+      "slotNumber": "A02",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 3,
+      "slotNumber": "A03",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 4,
+      "slotNumber": "A04",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 5,
+      "slotNumber": "B01",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 6,
+      "slotNumber": "B02",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 7,
+      "slotNumber": "B03",
+      "status": "Available",
+      "vehicleId": null
+    },
+    {
+      "id": 8,
+      "slotNumber": "B04",
+      "status": "Available",
+      "vehicleId": null
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "plateNumber": "TN34AB1234",
+      "ownerName": "Divzz",
+      "phone": "7894561238",
+      "vehicleType": "Car",
+      "slotNumber": "A01",
+      "entryTime": "2026-10-14T14:25:49.282Z",
+      "exitTime": null,
+      "status": "Parked",
+      "fee": 0
+    }
+  ]
+}
